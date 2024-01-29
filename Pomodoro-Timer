@@ -105,6 +105,8 @@ void phaseThree() {
       strip.show();
   
   }
+  colorFill(255,0,0);
+  delay(300000);
   
 }
 
@@ -117,6 +119,8 @@ void phaseFour() {
       strip.show();
 
   }
+  colorFill(255,0,0);
+  delay(300000);
   
 }
 
